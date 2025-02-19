@@ -40,7 +40,7 @@ This Power BI dashboard provides an **interactive analysis** of retail sales dat
 
 ## 🚀 How to Use the Dashboard  
 
-1. **View the dashboard on [Power BI Service](#)** _(Insert your published dashboard link here)_.  
+1. **View the dashboard on [Power BI Service](#)** _(https://app.powerbi.com/links/eUzEZoN4EF?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare&bookmarkGuid=389a4e5b-e3b4-480c-9486-47deb40a293f)_.  
 2. **Interact with the Stacked Bar Chart** to explore **total sales by category**, segmented by **customer type**.  
 3. **Use Cross-Filtering & Cross-Highlighting**: Clicking a segment updates all other visuals dynamically.  
 4. **Drill Down in the Line Chart**: Navigate from **Year → Month → Day** to analyze sales and profit trends in detail.  
